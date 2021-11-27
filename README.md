@@ -193,5 +193,9 @@ https://igobarros.herokuapp.com/
 
 https://petroniocandido.github.io/
 
+# Roadmap Python
 
+1. Lógica de Programação do Gustavo Guanabara: https://youtu.be/8mei6uVttho
+2. Curso de Python do Gustavo Guanabara: https://youtu.be/S9uPNppGsGo
+3. 
 
