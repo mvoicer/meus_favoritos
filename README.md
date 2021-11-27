@@ -195,3 +195,10 @@ https://petroniocandido.github.io/
 3. Versionar os códigos no GitHub
 4. Curso de Python do Data Science Academy: https://www.datascienceacademy.com.br/course/python-fundamentos
 5. Livro: Python Fluente do Prof. Ramalho
+
+# Ferramentas/IDE para programar em Python
+1. Google Colab: https://colab.research.google.com/ (só cadastrar com um email do Google. Free, fácil de usar e sem ter que instalar nada)
+2. Jupyter
+3. PyCharm
+4. Spyder
+5. VSCode
