@@ -130,6 +130,9 @@ Find a journal 2: http://journalfinder.elsevier.com/
 
 Find a journal 3: https://www.edanzediting.com/journal-selector
 
+# PMBoK
+PMBoK 6th edition explained (by Ricardo Vargas): https://www.youtube.com/watch?v=GC7pN8Mjot8
+
 # Insights:
 Vooo: https://www.vooo.pro/insights/category/data-science/
 
@@ -144,10 +147,17 @@ Zotero: www.zotero.org
 Overleaf: https://www.overleaf.com/
 
 # Educação Financeira:
-Clube dos Poupadores: clubedospoupadores.com
+Clube dos Poupadores: www.clubedospoupadores.com
+
+# Criptos:
+Altcoin Season Index: https://www.blockchaincenter.net/altcoin-season-index/
+
+Mayer Multiple: https://stats.buybitcoinworldwide.com/mayermultiple/
+
+Pi Cycle: https://www.lookintobitcoin.com/charts/pi-cycle-top-indicator/
 
 # Aleatory (and I hope interesting) lectures:
-Deus e o Diabo a Pagarem na Selva de Pedra: Uma Etnografia Política de Ocupações Autogestionadas na Zona Leste de São Paulo: https://drive.google.com/drive/folders/1mEVFqjeblr23itQgZVVPRBB98osh7sdp
+Deus e o Diabo a Pagarem na Selva de Pedra: Uma Etnografia Política de Ocupações Autogestionadas na Zona Leste de São Paulo: https://drive.google.com/drive/folders/1mEVFqjeblr23itQgZVVPRBB98osh7sdp (ver do cap9 ao cap12)
 
 # Read later
 https://imasters.com.br/aws/arquitetura-lambda-para-processamento-batch-e-tempo-real-na-aws-com-spark-streaming-e-spark-sql
@@ -157,8 +167,5 @@ https://medium.com/ydata-ai/should-data-science-teams-use-kubernetes-hell-no-b25
 Envio e-mails automatico Python: https://www.linkedin.com/posts/paulo-henrique-pinto-37128ab8_automacao-python-dataanalysis-ugcPost-6854508393655234560-7Hyy
 
 Jupyter notebook com implementações "do zero" de redes neurais artificiais: https://www.linkedin.com/posts/pedro-bl%C3%B6%C3%9F-braga-3263a1136_pedroblossbraganeuralnets-activity-6820134950705131520-1nU_
-
-# PMBoK
-PMBoK 6th edition explained (by Ricardo Vargas): https://www.youtube.com/watch?v=GC7pN8Mjot8
 
 
