@@ -160,6 +160,10 @@ Overleaf: https://www.overleaf.com/
 # Educação Financeira:
 Clube dos Poupadores: www.clubedospoupadores.com
 
+# Github pages
+https://towardsdatascience.com/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02
+
+
 # Criptos:
 Altcoin Season Index: https://www.blockchaincenter.net/altcoin-season-index/
 
