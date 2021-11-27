@@ -48,9 +48,13 @@ NLP (slides Adrianov DCC UFMG): https://homepages.dcc.ufmg.br/~adrianov/nlp/deep
 Free guide MLOps: https://cloud.google.com/resources/mlops-whitepaper
 
 # Guias and Books
-Kubernetes: Gerenciamento de Kubernetes para Leigos
+Whitepaper Gerenciamento de Kubernetes para Leigos: https://www.suse.com/pt-br/lp/kubernetes-for-dummies/
 
 Causal inference: https://br1lib.org/s/causal
+
+Data Mining and Machine Learning: Fundamental Concepts and Algorithms: https://dataminingbook.info/book_html/
+
+An Introduction to Statistical Learning:https://www.statlearning.com/
 
 ZLibrary: https://br1lib.org/
 
