@@ -6,31 +6,21 @@ Bot telegram: https://t.me/scihubot
 LibGen: http://libgen.rs/
 
 # Free courses
-PowerBI Data Science Academy: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science
 
-Curso Gratuito Online Espanhol Básico: https://www.pensarcursos.com.br/curso/espanhol
-
-Brasil + digital: http://brasilmaisdigital.org.br/index.php/pt-br/
-
-Udacity: https://www.udacity.com/
-
-Data Science Academy: https://www.datascienceacademy.com.br/
-
-Udemy: udemy.com
-
-IFRO: https://mooc.ifro.edu.br/
-
-Intelbras Itec: https://treinamentos.intelbras.com.br/lms
-
-Mackenzie: https://eadcursoslivres.mackenzie.br/course/index.php?categoryid=2
-
-Unasus: https://www.unasus.gov.br/cursos/
-
-Codecademy: https://www.codecademy.com/
-
-Programa de Educação Tutorial da Engenharia Elétrica (PETE UFMG): http://www.petee.cpdee.ufmg.br/#minicursos-oficinas
-
-Financial Forecasting with Big Data (pago): https://www.linkedin.com/learning/financial-forecasting-with-big-data
+1. SQL: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
+2. PowerBI Data Science Academy: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science
+3. Curso Gratuito Online Espanhol Básico: https://www.pensarcursos.com.br/curso/espanhol
+4. Brasil + digital: http://brasilmaisdigital.org.br/index.php/pt-br/
+5. Udacity: https://www.udacity.com/
+6. Data Science Academy: https://www.datascienceacademy.com.br/
+7. Udemy: udemy.com
+8. IFRO: https://mooc.ifro.edu.br/
+9. Intelbras Itec: https://treinamentos.intelbras.com.br/lms
+10. Mackenzie: https://eadcursoslivres.mackenzie.br/course/index.php?categoryid=2
+11. Unasus: https://www.unasus.gov.br/cursos/
+12. Codecademy: https://www.codecademy.com/
+13. Programa de Educação Tutorial da Engenharia Elétrica (PETE UFMG): http://www.petee.cpdee.ufmg.br/#minicursos-oficinas
+14. Financial Forecasting with Big Data (pago): https://www.linkedin.com/learning/financial-forecasting-with-big-data
 
 
 # Material de disciplinas
@@ -195,6 +185,7 @@ https://petroniocandido.github.io/
 3. Versionar os códigos no GitHub
 4. Curso de Python do Data Science Academy: https://www.datascienceacademy.com.br/course/python-fundamentos
 5. Livro: Python Fluente do Prof. Ramalho
+6. Para melhorar as habilidades: HackerRank https://www.hackerrank.com/domains/python
 
 # Ferramentas/IDE para programar em Python
 1. Google Colab: https://colab.research.google.com/ (só cadastrar com um email do Google. Free, fácil de usar e sem ter que instalar nada)
