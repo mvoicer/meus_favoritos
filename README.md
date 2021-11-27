@@ -175,4 +175,15 @@ Envio e-mails automatico Python: https://www.linkedin.com/posts/paulo-henrique-p
 
 Jupyter notebook com implementações "do zero" de redes neurais artificiais: https://www.linkedin.com/posts/pedro-bl%C3%B6%C3%9F-braga-3263a1136_pedroblossbraganeuralnets-activity-6820134950705131520-1nU_
 
+Pipelines Sklearn: https://www.linkedin.com/posts/rafael-barbosa0_notebook-com-informa%C3%A7%C3%B5es-sobre-pipelines-activity-6798577103043350528-ngtF
+
+Mais pipelines: https://www.linkedin.com/posts/igo-pereira-barros-developer_datascience-python-sklearn-activity-6794635489589673984-fKeC
+
+
+# See later
+https://igobarros.herokuapp.com/
+
+https://petroniocandido.github.io/
+
+
 
