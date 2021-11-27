@@ -30,6 +30,9 @@ Codecademy: https://www.codecademy.com/
 
 Programa de Educação Tutorial da Engenharia Elétrica (PETE UFMG): http://www.petee.cpdee.ufmg.br/#minicursos-oficinas
 
+Financial Forecasting with Big Data (pago): https://www.linkedin.com/learning/financial-forecasting-with-big-data
+
+
 # Material de disciplinas
 USP: https://edisciplinas.usp.br/acessar/
 
