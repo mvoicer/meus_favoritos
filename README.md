@@ -175,17 +175,12 @@ Pi Cycle: https://www.lookintobitcoin.com/charts/pi-cycle-top-indicator/
 Deus e o Diabo a Pagarem na Selva de Pedra: Uma Etnografia Política de Ocupações Autogestionadas na Zona Leste de São Paulo: https://drive.google.com/drive/folders/1mEVFqjeblr23itQgZVVPRBB98osh7sdp (ver do cap9 ao cap12)
 
 # Read later
-https://imasters.com.br/aws/arquitetura-lambda-para-processamento-batch-e-tempo-real-na-aws-com-spark-streaming-e-spark-sql
-
-https://medium.com/ydata-ai/should-data-science-teams-use-kubernetes-hell-no-b25ca01182f5
-
-Envio e-mails automatico Python: https://www.linkedin.com/posts/paulo-henrique-pinto-37128ab8_automacao-python-dataanalysis-ugcPost-6854508393655234560-7Hyy
-
-Jupyter notebook com implementações "do zero" de redes neurais artificiais: https://www.linkedin.com/posts/pedro-bl%C3%B6%C3%9F-braga-3263a1136_pedroblossbraganeuralnets-activity-6820134950705131520-1nU_
-
-Pipelines Sklearn: https://www.linkedin.com/posts/rafael-barbosa0_notebook-com-informa%C3%A7%C3%B5es-sobre-pipelines-activity-6798577103043350528-ngtF
-
-Mais pipelines: https://www.linkedin.com/posts/igo-pereira-barros-developer_datascience-python-sklearn-activity-6794635489589673984-fKeC
+1. https://imasters.com.br/aws/arquitetura-lambda-para-processamento-batch-e-tempo-real-na-aws-com-spark-streaming-e-spark-sql
+2. https://medium.com/ydata-ai/should-data-science-teams-use-kubernetes-hell-no-b25ca01182f5
+3. Envio e-mails automatico Python: https://www.linkedin.com/posts/paulo-henrique-pinto-37128ab8_automacao-python-dataanalysis-ugcPost-6854508393655234560-7Hyy
+4. Jupyter notebook com implementações "do zero" de redes neurais artificiais: https://www.linkedin.com/posts/pedro-bl%C3%B6%C3%9F-braga-3263a1136_pedroblossbraganeuralnets-activity-6820134950705131520-1nU_
+5. Pipelines Sklearn: https://www.linkedin.com/posts/rafael-barbosa0_notebook-com-informa%C3%A7%C3%B5es-sobre-pipelines-activity-6798577103043350528-ngtF
+6. Mais pipelines: https://www.linkedin.com/posts/igo-pereira-barros-developer_datascience-python-sklearn-activity-6794635489589673984-fKeC
 
 
 # See later
@@ -197,5 +192,6 @@ https://petroniocandido.github.io/
 
 1. Lógica de Programação do Gustavo Guanabara: https://youtu.be/8mei6uVttho
 2. Curso de Python do Gustavo Guanabara: https://youtu.be/S9uPNppGsGo
-3. 
-
+3. Versionar os códigos no GitHub
+4. Curso de Python do Data Science Academy: https://www.datascienceacademy.com.br/course/python-fundamentos
+5. Livro: Python Fluente do Prof. Ramalho
