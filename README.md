@@ -40,6 +40,10 @@ RecSys DCC UFMG: https://homepages.dcc.ufmg.br/~rodrygo/recsys-2018-1/
 
 Fundamentos Estatísticos para Ciência dos Dados DCC UFMG: https://homepages.dcc.ufmg.br/~assuncao/EstatCC/material.html
 
+Statistical Learning and Deep Learning (slides Adrianov DCC UFMG): https://homepages.dcc.ufmg.br/~adrianov/ml/pres.pdf
+
+NLP (slides Adrianov DCC UFMG): https://homepages.dcc.ufmg.br/~adrianov/nlp/deepnlp.pdf
+
 # MLOps
 Free guide MLOps: https://cloud.google.com/resources/mlops-whitepaper
 
