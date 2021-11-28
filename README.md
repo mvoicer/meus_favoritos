@@ -4,22 +4,26 @@
 3. LibGen: http://libgen.rs/
 
 # Free courses
+1. Brasil + digital: http://brasilmaisdigital.org.br/index.php/pt-br/
+2. Udacity: https://www.udacity.com/
+3. Data Science Academy: https://www.datascienceacademy.com.br/
+4. Udemy: www.udemy.com
+5. IFRO: https://mooc.ifro.edu.br/
+6. Intelbras Itec: https://treinamentos.intelbras.com.br/lms
+7. Mackenzie: https://eadcursoslivres.mackenzie.br/course/index.php?categoryid=2
+8. Unasus: https://www.unasus.gov.br/cursos/
+9. Codecademy: https://www.codecademy.com/
+10. Programa de Educação Tutorial da Engenharia Elétrica (PETE UFMG): http://www.petee.cpdee.ufmg.br/#minicursos-oficinas
+11. Financial Forecasting with Big Data (pago): https://www.linkedin.com/learning/financial-forecasting-with-big-data
 
+# PowerBI
+1. PowerBI Data Science Academy: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science
+
+# SQL
 1. SQL: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
-2. PowerBI Data Science Academy: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science
-3. Curso Gratuito Online Espanhol Básico: https://www.pensarcursos.com.br/curso/espanhol
-4. Brasil + digital: http://brasilmaisdigital.org.br/index.php/pt-br/
-5. Udacity: https://www.udacity.com/
-6. Data Science Academy: https://www.datascienceacademy.com.br/
-7. Udemy: udemy.com
-8. IFRO: https://mooc.ifro.edu.br/
-9. Intelbras Itec: https://treinamentos.intelbras.com.br/lms
-10. Mackenzie: https://eadcursoslivres.mackenzie.br/course/index.php?categoryid=2
-11. Unasus: https://www.unasus.gov.br/cursos/
-12. Codecademy: https://www.codecademy.com/
-13. Programa de Educação Tutorial da Engenharia Elétrica (PETE UFMG): http://www.petee.cpdee.ufmg.br/#minicursos-oficinas
-14. Financial Forecasting with Big Data (pago): https://www.linkedin.com/learning/financial-forecasting-with-big-data
 
+# Espanõl 
+1. Curso Gratuito Online Espanhol Básico: https://www.pensarcursos.com.br/curso/espanhol
 
 # Material de disciplinas
 1. USP: https://edisciplinas.usp.br/acessar/
@@ -49,7 +53,7 @@
 1. Gradient descent: https://towardsdatascience.com/complete-step-by-step-gradient-descent-algorithm-from-scratch-acba013e8420
 2. Decision Tree: https://towardsdatascience.com/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173
 3. ANN: https://medium.com/analytics-vidhya/what-is-artificial-neural-network-and-how-it-mimics-the-human-brain-f92c45564e20
-4. See StatsQuest channel on Youtube 
+4. StatsQuest channel on Youtube: https://www.youtube.com/c/joshstarmer
 
 # Cloud Certifications
 1. Azure data scientist: https://docs.microsoft.com/pt-br/learn/certifications/azure-data-scientist/
