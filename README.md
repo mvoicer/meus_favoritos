@@ -1,9 +1,7 @@
 # Sci-hub
-https://sci-hub.se/
-
-Bot telegram: https://t.me/scihubot
-
-LibGen: http://libgen.rs/
+1. https://sci-hub.se/
+2. Bot scihub telegram: https://t.me/scihubot
+3. LibGen: http://libgen.rs/
 
 # Free courses
 
@@ -24,145 +22,104 @@ LibGen: http://libgen.rs/
 
 
 # Material de disciplinas
-USP: https://edisciplinas.usp.br/acessar/
-
-RecSys DCC UFMG: https://homepages.dcc.ufmg.br/~rodrygo/recsys-2018-1/
-
-Fundamentos Estatísticos para Ciência dos Dados DCC UFMG: https://homepages.dcc.ufmg.br/~assuncao/EstatCC/material.html
-
-Statistical Learning and Deep Learning (slides Adrianov DCC UFMG): https://homepages.dcc.ufmg.br/~adrianov/ml/pres.pdf
-
-NLP (slides Adrianov DCC UFMG): https://homepages.dcc.ufmg.br/~adrianov/nlp/deepnlp.pdf
+1. USP: https://edisciplinas.usp.br/acessar/
+2. RecSys DCC UFMG: https://homepages.dcc.ufmg.br/~rodrygo/recsys-2018-1/
+3. Fundamentos Estatísticos para Ciência dos Dados DCC UFMG: https://homepages.dcc.ufmg.br/~assuncao/EstatCC/material.html
+4. Statistical Learning and Deep Learning (slides Adrianov DCC UFMG): https://homepages.dcc.ufmg.br/~adrianov/ml/pres.pdf
+5. NLP (slides Adrianov DCC UFMG): https://homepages.dcc.ufmg.br/~adrianov/nlp/deepnlp.pdf
 
 # MLOps
-Free guide MLOps: https://cloud.google.com/resources/mlops-whitepaper
+1. Free guide (whitepaper) MLOps: https://cloud.google.com/resources/mlops-whitepaper
 
-# Guias and Books
-Whitepaper Gerenciamento de Kubernetes para Leigos: https://www.suse.com/pt-br/lp/kubernetes-for-dummies/
-
-Causal inference: https://br1lib.org/s/causal
-
-Data Mining and Machine Learning: Fundamental Concepts and Algorithms: https://dataminingbook.info/book_html/
-
-An Introduction to Statistical Learning:https://www.statlearning.com/
-
-ZLibrary: https://br1lib.org/
-
-Tons of IA Books: https://drive.google.com/drive/folders/1B-5t63feVAG9UHV47yk98ZVNoMD-ZYt9
-
-CheatSheets: ML Interview Cheat Sheet: https://drive.google.com/drive/u/0/folders/1Amh8K6eUzmbHyoN92TBYelnuWnLNpvLx
+# Guides and Books
+1. Gerenciamento de Kubernetes para Leigos: https://www.suse.com/pt-br/lp/kubernetes-for-dummies/
+2. Causal inference: https://br1lib.org/s/causal
+3. Data Mining and Machine Learning: Fundamental Concepts and Algorithms: https://dataminingbook.info/book_html/
+4. An Introduction to Statistical Learning:https://www.statlearning.com/
+5. ZLibrary: https://br1lib.org/
+6. Tons of IA Books: https://drive.google.com/drive/folders/1B-5t63feVAG9UHV47yk98ZVNoMD-ZYt9
+7. CheatSheets: ML Interview Cheat Sheet: https://drive.google.com/drive/u/0/folders/1Amh8K6eUzmbHyoN92TBYelnuWnLNpvLx
 
 # Helpers:
-Matcha Online Mathematics Editor: https://www.mathcha.io/
-
-https://www.freecodecamp.org/news/how-to-solve-coding-problems/
-
-OpenAPI (Swagger) para documentar suas APIs: https://www.npmjs.com/package/easy-api-doc
+1. Matcha Online Mathematics Editor: https://www.mathcha.io/
+2. https://www.freecodecamp.org/news/how-to-solve-coding-problems/
+3. OpenAPI (Swagger) para documentar suas APIs: https://www.npmjs.com/package/easy-api-doc
 
 # Best tutorials
-Gradient descent: https://towardsdatascience.com/complete-step-by-step-gradient-descent-algorithm-from-scratch-acba013e8420
+1. Gradient descent: https://towardsdatascience.com/complete-step-by-step-gradient-descent-algorithm-from-scratch-acba013e8420
+2. Decision Tree: https://towardsdatascience.com/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173
+3. ANN: https://medium.com/analytics-vidhya/what-is-artificial-neural-network-and-how-it-mimics-the-human-brain-f92c45564e20
+4. See StatsQuest channel on Youtube 
 
-Decision Tree: https://towardsdatascience.com/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173
-
-ANN: https://medium.com/analytics-vidhya/what-is-artificial-neural-network-and-how-it-mimics-the-human-brain-f92c45564e20
-
-# Certifications
-Azure data scientist: https://docs.microsoft.com/pt-br/learn/certifications/azure-data-scientist/
-
-Azure AI fundamentals: https://docs.microsoft.com/pt-br/learn/certifications/azure-ai-fundamentals/
+# Cloud Certifications
+1. Azure data scientist: https://docs.microsoft.com/pt-br/learn/certifications/azure-data-scientist/
+2. Azure AI fundamentals: https://docs.microsoft.com/pt-br/learn/certifications/azure-ai-fundamentals/
+3. AWS certifications: https://aws.amazon.com/pt/certification/
 
 # Best practices
-Azure Databricks: https://docs.microsoft.com/en-us/azure/databricks/best-practices-index
+1. Azure Databricks: https://docs.microsoft.com/en-us/azure/databricks/best-practices-index
 
 # Best funcionalities Python
-atoti (criar vários dashboards para BI analytics, Cubos OLAP): https://www.linkedin.com/posts/paulopestanajunior_essa-funcionalidade-%C3%A9-com-certeza-uma-da-activity-6795716570233540608-DFGQ/
-
-Top 7 functionalities python: https://www.linkedin.com/pulse/top-7-extens%25C3%25B5es-para-aumentar-sua-produtividade-jupyter-igo-barros/
-
-Iterative Plot Python: https://mode.com/blog/python-interactive-plot-libraries/
-
-PySpark (Spark com Python): https://www.linkedin.com/posts/karinnecristinapereira_data-python-spark-activity-6841399232692391937-rlvd
-
-PowerBI in Jupyter notebooks: https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/
-
-Maps 1: Plotly: https://www.linkedin.com/posts/odemir-depieri-jr_guia-gr%C3%A1fico-de-mapas-python-ugcPost-6801082973757173761-PHqy
-
-Maps 2: Cool maps with Geopy: https://towardsdatascience.com/making-simple-maps-with-folium-and-geopy-4b9e8ab98c00
-
-Maps 3: Lat and Long Geopy: https://towardsdatascience.com/things-to-do-with-latitude-longitude-data-using-geopy-python-1d356ed1ae30
+1. atoti (criar vários dashboards para BI analytics, Cubos OLAP): https://www.linkedin.com/posts/paulopestanajunior_essa-funcionalidade-%C3%A9-com-certeza-uma-da-activity-6795716570233540608-DFGQ/
+2. Top 7 functionalities python: https://www.linkedin.com/pulse/top-7-extens%25C3%25B5es-para-aumentar-sua-produtividade-jupyter-igo-barros/
+3. Iterative Plot Python: https://mode.com/blog/python-interactive-plot-libraries/
+4. PySpark (Spark com Python): https://www.linkedin.com/posts/karinnecristinapereira_data-python-spark-activity-6841399232692391937-rlvd
+5. PowerBI in Jupyter notebooks: https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/
+6. Maps 1: Plotly: https://www.linkedin.com/posts/odemir-depieri-jr_guia-gr%C3%A1fico-de-mapas-python-ugcPost-6801082973757173761-PHqy
+7. Maps 2: Cool maps with Geopy: https://towardsdatascience.com/making-simple-maps-with-folium-and-geopy-4b9e8ab98c00
+8. Maps 3: Lat and Long Geopy: https://towardsdatascience.com/things-to-do-with-latitude-longitude-data-using-geopy-python-1d356ed1ae30
 
 
 # Deep Learning
-Yann LeCun’s Deep Learning Course FREE: https://nyudatascience.medium.com/yann-lecuns-deep-learning-course-at-cds-is-now-fully-online-accessible-to-all-787ddc8bf0af
-
-Deep Learning. An MIT Press book: https://www.deeplearningbook.org/
-
-Deep Learning Book em Portugues: http://deeplearningbook.com.br/capitulos/
-
-Backpropagation calculus: https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5
+1. Yann LeCun’s Deep Learning Course FREE: https://nyudatascience.medium.com/yann-lecuns-deep-learning-course-at-cds-is-now-fully-online-accessible-to-all-787ddc8bf0af
+2. Deep Learning. An MIT Press book: https://www.deeplearningbook.org/
+3. Deep Learning Book em Portugues: http://deeplearningbook.com.br/capitulos/
+4. Backpropagation calculus: https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5
 
 # Tricks
-Remove correlated variables from a dataframe: https://www.linkedin.com/in/marcosantonioalves/detail/recent-activity/
+1. Remove correlated variables from a dataframe: https://www.linkedin.com/in/marcosantonioalves/detail/recent-activity/
+2. Python and SQL to manipulate data?: FugueSQL https://www.linkedin.com/posts/khuyen-tran-1401_pandas-python-sql-activity-6851502517793161216-Y5Hw
+3. Termos corporativos (Company slangs): https://www.linkedin.com/posts/carlos-quaresma-3385b629_245-termos-corporativos-ugcPost-6805174340355678208-BNiH
 
-Python and SQL to manipulate data?: FugueSQL https://www.linkedin.com/posts/khuyen-tran-1401_pandas-python-sql-activity-6851502517793161216-Y5Hw
+# Journals para trabalhos academicos, relatórios de ICs, TCCs etc
+1. Revista da Universidade Vale do Rio Verde: http://periodicos.unincor.br/index.php/revistaunincor/index
+2. Revista Brasileira de Computação Aplicada: http://seer.upf.br/index.php/rbca
+3. Revista Liberato: http://revista.liberato.com.br/index.php/revista
+4. ForScience: http://www.forscience.ifmg.edu.br/forscience/index.php/forscience
+5. Revista de Sistemas de Informação da Faculdade Salesiana Maria Auxiliadora: http://www.fsma.edu.br/si/principal.html
+6. Journal of Control, Automation and Electrical Systems: https://www.springer.com/journal/40313
+7. Brazilian Journal of Information Science: research trends: https://revistas.marilia.unesp.br/index.php/bjis/index
+8. Learning and NonLinear Models: https://sbic.org.br/lnlm/
 
-Termos corporativos: https://www.linkedin.com/posts/carlos-quaresma-3385b629_245-termos-corporativos-ugcPost-6805174340355678208-BNiH
-
-# Journals (boas para trabalhos academicos, TCCs etc)
-Revista da Universidade Vale do Rio Verde: http://periodicos.unincor.br/index.php/revistaunincor/index
-
-Revista Brasileira de Computação Aplicada: http://seer.upf.br/index.php/rbca
-
-Revista Liberato: http://revista.liberato.com.br/index.php/revista
-
-ForScience: http://www.forscience.ifmg.edu.br/forscience/index.php/forscience
-
-Revista de Sistemas de Informação da Faculdade Salesiana Maria Auxiliadora: http://www.fsma.edu.br/si/principal.html
-
-Journal of Control, Automation and Electrical Systems: https://www.springer.com/journal/40313
-
-Brazilian Journal of Information Science: research trends: https://revistas.marilia.unesp.br/index.php/bjis/index
-
-Learning and NonLinear Models: https://sbic.org.br/lnlm/
-
-Find a journal 1: https://jane.biosemantics.org/
-
-Find a journal 2: http://journalfinder.elsevier.com/
-
-Find a journal 3: https://www.edanzediting.com/journal-selector
+# Find a journal
+1. Find a journal 1: https://jane.biosemantics.org/
+2. Find a journal 2: http://journalfinder.elsevier.com/
+3. Find a journal 3: https://www.edanzediting.com/journal-selector
 
 # PMBoK
-PMBoK 6th edition explained (by Ricardo Vargas): https://www.youtube.com/watch?v=GC7pN8Mjot8
+1. PMBoK 6th edition explained (by Ricardo Vargas): https://www.youtube.com/watch?v=GC7pN8Mjot8
 
 # Insights:
-Vooo: https://www.vooo.pro/insights/category/data-science/
-
-The Brief: https://www.tecmundo.com.br/the-brief
+1. Vooo: https://www.vooo.pro/insights/category/data-science/
+2. The Brief: https://www.tecmundo.com.br/the-brief
 
 # Gerenciador de referências:
-Mendeley: www.mendeley.com (e integra facilmente com Overleaf)
-
-Zotero: www.zotero.org
+1. Mendeley: www.mendeley.com (integra facilmente com Overleaf)
+2. Zotero: www.zotero.org
 
 # Ferramentas para escrita de textos (científicos ou não):
-Overleaf: https://www.overleaf.com/
+1. Overleaf: https://www.overleaf.com/
 
 # Educação Financeira:
-Clube dos Poupadores: www.clubedospoupadores.com
+1. Clube dos Poupadores: www.clubedospoupadores.com
 
 # Github pages
-https://towardsdatascience.com/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02
-
+1. https://towardsdatascience.com/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02
 
 # Criptos:
-Altcoin Season Index: https://www.blockchaincenter.net/altcoin-season-index/
-
-Mayer Multiple: https://stats.buybitcoinworldwide.com/mayermultiple/
-
-Pi Cycle: https://www.lookintobitcoin.com/charts/pi-cycle-top-indicator/
-
-# Aleatory (and I hope interesting) lectures:
-Deus e o Diabo a Pagarem na Selva de Pedra: Uma Etnografia Política de Ocupações Autogestionadas na Zona Leste de São Paulo: https://drive.google.com/drive/folders/1mEVFqjeblr23itQgZVVPRBB98osh7sdp (ver do cap9 ao cap12)
+1. Altcoin Season Index: https://www.blockchaincenter.net/altcoin-season-index/
+2. Mayer Multiple: https://stats.buybitcoinworldwide.com/mayermultiple/
+3. Pi Cycle: https://www.lookintobitcoin.com/charts/pi-cycle-top-indicator/
 
 # Read later
 1. https://imasters.com.br/aws/arquitetura-lambda-para-processamento-batch-e-tempo-real-na-aws-com-spark-streaming-e-spark-sql
@@ -171,15 +128,11 @@ Deus e o Diabo a Pagarem na Selva de Pedra: Uma Etnografia Política de Ocupaç�
 4. Jupyter notebook com implementações "do zero" de redes neurais artificiais: https://www.linkedin.com/posts/pedro-bl%C3%B6%C3%9F-braga-3263a1136_pedroblossbraganeuralnets-activity-6820134950705131520-1nU_
 5. Pipelines Sklearn: https://www.linkedin.com/posts/rafael-barbosa0_notebook-com-informa%C3%A7%C3%B5es-sobre-pipelines-activity-6798577103043350528-ngtF
 6. Mais pipelines: https://www.linkedin.com/posts/igo-pereira-barros-developer_datascience-python-sklearn-activity-6794635489589673984-fKeC
-
-
-# See later
-https://igobarros.herokuapp.com/
-
-https://petroniocandido.github.io/
+7. Deus e o Diabo a Pagarem na Selva de Pedra: Uma Etnografia Política de Ocupações Autogestionadas na Zona Leste de São Paulo: https://drive.google.com/drive/folders/1mEVFqjeblr23itQgZVVPRBB98osh7sdp (ver do cap9 ao cap12)
+8. https://igobarros.herokuapp.com/
+9. https://petroniocandido.github.io/
 
 # Roadmap Python
-
 1. Lógica de Programação do Gustavo Guanabara: https://youtu.be/8mei6uVttho
 2. Curso de Python do Gustavo Guanabara: https://youtu.be/S9uPNppGsGo
 3. Versionar os códigos no GitHub
