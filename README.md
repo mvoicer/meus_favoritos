@@ -49,6 +49,9 @@
 2. https://www.freecodecamp.org/news/how-to-solve-coding-problems/
 3. OpenAPI (Swagger) para documentar suas APIs: https://www.npmjs.com/package/easy-api-doc
 
+# Deploy ML
+1. https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/
+
 # Best tutorials
 1. Gradient descent: https://towardsdatascience.com/complete-step-by-step-gradient-descent-algorithm-from-scratch-acba013e8420
 2. Decision Tree: https://towardsdatascience.com/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173
@@ -119,7 +122,7 @@
 # Educação Financeira:
 1. Clube dos Poupadores: www.clubedospoupadores.com
 
-# Github pages
+# Github pages creation
 1. https://towardsdatascience.com/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02
 
 # Criptos:
