@@ -73,6 +73,8 @@
 7. Maps 2: Cool maps with Geopy: https://towardsdatascience.com/making-simple-maps-with-folium-and-geopy-4b9e8ab98c00
 8. Maps 3: Lat and Long Geopy: https://towardsdatascience.com/things-to-do-with-latitude-longitude-data-using-geopy-python-1d356ed1ae30
 
+# Software Testing
+1. https://bstqb.org.br/b9/doc/syllabus_ctfl_2018br.pdf
 
 # Deep Learning
 1. Yann LeCun’s Deep Learning Course FREE: https://nyudatascience.medium.com/yann-lecuns-deep-learning-course-at-cds-is-now-fully-online-accessible-to-all-787ddc8bf0af
