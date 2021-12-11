@@ -52,6 +52,9 @@
 # Deploy ML
 1. https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/
 
+# Regular Expressions (RegEx) Python
+1. https://medium.com/pyladiesbh/regex-b%C3%A1sico-em-python-31dcb7fac046
+
 # Best tutorials
 1. Gradient descent: https://towardsdatascience.com/complete-step-by-step-gradient-descent-algorithm-from-scratch-acba013e8420
 2. Decision Tree: https://towardsdatascience.com/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173
