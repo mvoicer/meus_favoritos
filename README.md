@@ -15,6 +15,7 @@
 9. Codecademy: https://www.codecademy.com/
 10. Programa de Educação Tutorial da Engenharia Elétrica (PETE UFMG): http://www.petee.cpdee.ufmg.br/#minicursos-oficinas
 11. Financial Forecasting with Big Data (pago): https://www.linkedin.com/learning/financial-forecasting-with-big-data
+12. FIAP: https://www.linkedin.com/posts/almeidafelipe88_treinamentosgratuitos-conhecimento-tecnologia-activity-6873722587202011136-mvdc/
 
 # PowerBI
 1. PowerBI Data Science Academy: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science
@@ -43,6 +44,7 @@
 5. ZLibrary: https://br1lib.org/
 6. Tons of IA Books: https://drive.google.com/drive/folders/1B-5t63feVAG9UHV47yk98ZVNoMD-ZYt9
 7. CheatSheets: ML Interview Cheat Sheet: https://drive.google.com/drive/u/0/folders/1Amh8K6eUzmbHyoN92TBYelnuWnLNpvLx
+8. Forecasting Principles and Practice (using R) 3rd ed: https://otexts.com/fpp3/ + unofficial repo in Python: https://github.com/zgana/fpp3-python-readalong
 
 # Helpers:
 1. Matcha Online Mathematics Editor: https://www.mathcha.io/
@@ -92,6 +94,9 @@
 1. Remove correlated variables from a dataframe: https://www.linkedin.com/in/marcosantonioalves/detail/recent-activity/
 2. Python and SQL to manipulate data?: FugueSQL https://www.linkedin.com/posts/khuyen-tran-1401_pandas-python-sql-activity-6851502517793161216-Y5Hw
 3. Termos corporativos (Company slangs): https://www.linkedin.com/posts/carlos-quaresma-3385b629_245-termos-corporativos-ugcPost-6805174340355678208-BNiH
+
+# GAN to restore photos
+1. https://www.linkedin.com/posts/murilo-gustineli_computervision-deeplearning-artificialintelligence-activity-6874434789815009280-Xow8/
 
 # Journals para trabalhos academicos, relatórios de ICs, TCCs etc
 1. Revista da Universidade Vale do Rio Verde: http://periodicos.unincor.br/index.php/revistaunincor/index
