@@ -108,10 +108,17 @@
 7. Brazilian Journal of Information Science: research trends: https://revistas.marilia.unesp.br/index.php/bjis/index
 8. Learning and NonLinear Models: https://sbic.org.br/lnlm/
 
-# Find a journal
+# Find a scientific journal
 1. Find a journal 1: https://jane.biosemantics.org/
 2. Find a journal 2: http://journalfinder.elsevier.com/
 3. Find a journal 3: https://www.edanzediting.com/journal-selector
+
+# English helpers
+1. Tradutor: https://deepl.com
+2. Reescreve, corrige e assistente para escrever: https://quillbot.com
+3. Corrige, reestrutura e checa plagiarismo: https://grammarly.com
+4. Checa plagiarismo: https://quetext.com
+5. Indica como o texto fica mais compreensível para leitura: https://hemingwayapp.com
 
 # PMBoK
 1. PMBoK 6th edition explained (by Ricardo Vargas): https://www.youtube.com/watch?v=GC7pN8Mjot8
