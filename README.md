@@ -94,6 +94,7 @@
 1. Remove correlated variables from a dataframe: https://www.linkedin.com/in/marcosantonioalves/detail/recent-activity/
 2. Python and SQL to manipulate data?: FugueSQL https://www.linkedin.com/posts/khuyen-tran-1401_pandas-python-sql-activity-6851502517793161216-Y5Hw
 3. Termos corporativos (Company slangs): https://www.linkedin.com/posts/carlos-quaresma-3385b629_245-termos-corporativos-ugcPost-6805174340355678208-BNiH
+4. 101 Data Science cheat sheets: https://medium.com/@anushka.datascoop/101-data-science-cheat-sheets-ml-dl-scraping-python-r-sql-maths-statistics-ef30b4d786eb
 
 # GAN to restore photos
 1. https://www.linkedin.com/posts/murilo-gustineli_computervision-deeplearning-artificialintelligence-activity-6874434789815009280-Xow8/
@@ -145,6 +146,25 @@
 2. Mayer Multiple: https://stats.buybitcoinworldwide.com/mayermultiple/
 3. Pi Cycle: https://www.lookintobitcoin.com/charts/pi-cycle-top-indicator/
 
+# Roadmap Python
+1. Lógica de Programação do Gustavo Guanabara: https://youtu.be/8mei6uVttho
+2. Curso de Python do Gustavo Guanabara: https://youtu.be/S9uPNppGsGo
+3. Versionar os códigos no GitHub
+4. Curso de Python do Data Science Academy: https://www.datascienceacademy.com.br/course/python-fundamentos
+5. Livro: Python Fluente do Prof. Ramalho
+6. Para melhorar as habilidades: HackerRank https://www.hackerrank.com/domains/python
+
+# Roadmap Engenharia de Dados
+1. https://cassio-bolba.medium.com/o-que-eu-estudaria-hoje-para-virar-engenheiro-de-dados-2074eb7a32f4
+2. Bootcamp Engenharia Dados: https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados
+
+# Ferramentas/IDE para programar em Python
+1. Google Colab: https://colab.research.google.com/ (só cadastrar com um email do Google. Free, fácil de usar e sem ter que instalar nada)
+2. Jupyter
+3. PyCharm
+4. Spyder
+5. VSCode
+
 # Read later
 1. https://imasters.com.br/aws/arquitetura-lambda-para-processamento-batch-e-tempo-real-na-aws-com-spark-streaming-e-spark-sql
 2. https://medium.com/ydata-ai/should-data-science-teams-use-kubernetes-hell-no-b25ca01182f5
@@ -155,18 +175,3 @@
 7. Deus e o Diabo a Pagarem na Selva de Pedra: Uma Etnografia Política de Ocupações Autogestionadas na Zona Leste de São Paulo: https://drive.google.com/drive/folders/1mEVFqjeblr23itQgZVVPRBB98osh7sdp (ver do cap9 ao cap12)
 8. https://igobarros.herokuapp.com/
 9. https://petroniocandido.github.io/
-
-# Roadmap Python
-1. Lógica de Programação do Gustavo Guanabara: https://youtu.be/8mei6uVttho
-2. Curso de Python do Gustavo Guanabara: https://youtu.be/S9uPNppGsGo
-3. Versionar os códigos no GitHub
-4. Curso de Python do Data Science Academy: https://www.datascienceacademy.com.br/course/python-fundamentos
-5. Livro: Python Fluente do Prof. Ramalho
-6. Para melhorar as habilidades: HackerRank https://www.hackerrank.com/domains/python
-
-# Ferramentas/IDE para programar em Python
-1. Google Colab: https://colab.research.google.com/ (só cadastrar com um email do Google. Free, fácil de usar e sem ter que instalar nada)
-2. Jupyter
-3. PyCharm
-4. Spyder
-5. VSCode
