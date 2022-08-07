@@ -35,6 +35,8 @@
 
 # MLOps
 1. Free guide (whitepaper) MLOps: https://cloud.google.com/resources/mlops-whitepaper
+2. https://towardsai.net/p/l/introduction-to-mlops-for-data-science
+3. https://datatalks.club/blog/mlops-10-minutes.html
 
 # Guides and Books
 1. Gerenciamento de Kubernetes para Leigos: https://www.suse.com/pt-br/lp/kubernetes-for-dummies/
@@ -157,6 +159,9 @@
 # Roadmap Engenharia de Dados
 1. https://cassio-bolba.medium.com/o-que-eu-estudaria-hoje-para-virar-engenheiro-de-dados-2074eb7a32f4
 2. Bootcamp Engenharia Dados: https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados
+
+# Linux
+1. Linux commands: https://www.xmind.net/m/WwtB/?
 
 # Ferramentas/IDE para programar em Python
 1. Google Colab: https://colab.research.google.com/ (só cadastrar com um email do Google. Free, fácil de usar e sem ter que instalar nada)
