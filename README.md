@@ -37,6 +37,7 @@
 1. Free guide (whitepaper) MLOps: https://cloud.google.com/resources/mlops-whitepaper
 2. https://towardsai.net/p/l/introduction-to-mlops-for-data-science
 3. https://datatalks.club/blog/mlops-10-minutes.html
+4. https://arxiv.org/abs/2205.02302
 
 # Guides and Books
 1. Gerenciamento de Kubernetes para Leigos: https://www.suse.com/pt-br/lp/kubernetes-for-dummies/
