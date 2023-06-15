@@ -181,3 +181,4 @@
 7. Deus e o Diabo a Pagarem na Selva de Pedra: Uma Etnografia Política de Ocupações Autogestionadas na Zona Leste de São Paulo: https://drive.google.com/drive/folders/1mEVFqjeblr23itQgZVVPRBB98osh7sdp (ver do cap9 ao cap12)
 8. https://igobarros.herokuapp.com/
 9. https://petroniocandido.github.io/
+10. Modeltime para prever series temporais: https://www.business-science.io/code-tools/2020/06/29/introducing-modeltime.html
