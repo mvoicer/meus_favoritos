@@ -21,7 +21,10 @@
 1. PowerBI Data Science Academy: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science
 
 # SQL
-1. SQL: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
+1. SQL Curso em Video: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
+2. SQL Cheat Sheet: https://media.licdn.com/dms/document/media/D561FAQFsT64I513PIw/feedshare-document-pdf-analyzed/0/1684837258056?e=1687996800&v=beta&t=fZVeHavvz4JVnEY8HrWuJH6hOTxT5-9yQ-flEeA-ktI
+3. SQL Guide Cheat Sheet: https://media.licdn.com/dms/document/media/C561FAQEOI1lCQZoUoA/feedshare-document-pdf-analyzed/0/1679902484006?e=1687996800&v=beta&t=arisOloT3WHX4GPG1H6Fb6MpoCqNu_DaNQbtLLIeA2U
+4. Python and SQL to manipulate data?: FugueSQL https://www.linkedin.com/posts/khuyen-tran-1401_pandas-python-sql-activity-6851502517793161216-Y5Hw
 
 # Espanõl 
 1. Curso Gratuito Online Espanhol Básico: https://www.pensarcursos.com.br/curso/espanhol
@@ -57,7 +60,7 @@
 # Deploy ML
 1. https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/
 
-# Regular Expressions (RegEx) Python
+# RegEx Python
 1. https://medium.com/pyladiesbh/regex-b%C3%A1sico-em-python-31dcb7fac046
 
 # Best tutorials
@@ -65,24 +68,30 @@
 2. Decision Tree: https://towardsdatascience.com/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173
 3. ANN: https://medium.com/analytics-vidhya/what-is-artificial-neural-network-and-how-it-mimics-the-human-brain-f92c45564e20
 4. StatsQuest channel on Youtube: https://www.youtube.com/c/joshstarmer
+5. 180 Data Science and ML Projects solved and explained in Python: https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9
+6. 101 Data Science Cheat Sheet: https://medium.com/@anushka.datascoop/101-data-science-cheat-sheets-ml-dl-scraping-python-r-sql-maths-statistics-ef30b4d786eb
+7. ML Algorithms in Excel: https://www.linkedin.com/feed/update/urn:li:activity:7054558864699990016/
+8. atoti (criar vários dashboards para BI analytics, Cubos OLAP): https://www.linkedin.com/posts/paulopestanajunior_essa-funcionalidade-%C3%A9-com-certeza-uma-da-activity-6795716570233540608-DFGQ/
+9. Top 7 functionalities python: https://www.linkedin.com/pulse/top-7-extens%25C3%25B5es-para-aumentar-sua-produtividade-jupyter-igo-barros/
+10. Iterative Plot Python: https://mode.com/blog/python-interactive-plot-libraries/
+11. PySpark (Spark com Python): https://www.linkedin.com/posts/karinnecristinapereira_data-python-spark-activity-6841399232692391937-rlvd
+12. PowerBI in Jupyter notebooks: https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/
+13. Maps 1: Plotly: https://www.linkedin.com/posts/odemir-depieri-jr_guia-gr%C3%A1fico-de-mapas-python-ugcPost-6801082973757173761-PHqy
+14. Maps 2: Cool maps with Geopy: https://towardsdatascience.com/making-simple-maps-with-folium-and-geopy-4b9e8ab98c00
+15. Maps 3: Lat and Long Geopy: https://towardsdatascience.com/things-to-do-with-latitude-longitude-data-using-geopy-python-1d356ed1ae30
+
+
+# Linear Algebra in 4 pages
+1. https://media.licdn.com/dms/document/media/D4D1FAQFp5VJ8xlAVkw/feedshare-document-pdf-analyzed/0/1681843895404?e=1687996800&v=beta&t=gt-WT2FwlAk6Bo-ibbf1dm3TBTLipAGGpUADXeMxQ6M
 
 # Cloud Certifications
 1. Azure data scientist: https://docs.microsoft.com/pt-br/learn/certifications/azure-data-scientist/
 2. Azure AI fundamentals: https://docs.microsoft.com/pt-br/learn/certifications/azure-ai-fundamentals/
 3. AWS certifications: https://aws.amazon.com/pt/certification/
+4. Practice Assessments com simulados gratuitos: https://medium.com/@robson_rocha/practice-assessments-no-microsoft-learn-se-prepare-para-a-prova-de-certifica%C3%A7%C3%A3o-com-simulados-559241048e6b
 
 # Best practices
 1. Azure Databricks: https://docs.microsoft.com/en-us/azure/databricks/best-practices-index
-
-# Best funcionalities Python
-1. atoti (criar vários dashboards para BI analytics, Cubos OLAP): https://www.linkedin.com/posts/paulopestanajunior_essa-funcionalidade-%C3%A9-com-certeza-uma-da-activity-6795716570233540608-DFGQ/
-2. Top 7 functionalities python: https://www.linkedin.com/pulse/top-7-extens%25C3%25B5es-para-aumentar-sua-produtividade-jupyter-igo-barros/
-3. Iterative Plot Python: https://mode.com/blog/python-interactive-plot-libraries/
-4. PySpark (Spark com Python): https://www.linkedin.com/posts/karinnecristinapereira_data-python-spark-activity-6841399232692391937-rlvd
-5. PowerBI in Jupyter notebooks: https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/
-6. Maps 1: Plotly: https://www.linkedin.com/posts/odemir-depieri-jr_guia-gr%C3%A1fico-de-mapas-python-ugcPost-6801082973757173761-PHqy
-7. Maps 2: Cool maps with Geopy: https://towardsdatascience.com/making-simple-maps-with-folium-and-geopy-4b9e8ab98c00
-8. Maps 3: Lat and Long Geopy: https://towardsdatascience.com/things-to-do-with-latitude-longitude-data-using-geopy-python-1d356ed1ae30
 
 # Software Testing
 1. https://bstqb.org.br/b9/doc/syllabus_ctfl_2018br.pdf
@@ -95,9 +104,8 @@
 
 # Tricks
 1. Remove correlated variables from a dataframe: https://www.linkedin.com/in/marcosantonioalves/detail/recent-activity/
-2. Python and SQL to manipulate data?: FugueSQL https://www.linkedin.com/posts/khuyen-tran-1401_pandas-python-sql-activity-6851502517793161216-Y5Hw
-3. Termos corporativos (Company slangs): https://www.linkedin.com/posts/carlos-quaresma-3385b629_245-termos-corporativos-ugcPost-6805174340355678208-BNiH
-4. 101 Data Science cheat sheets: https://medium.com/@anushka.datascoop/101-data-science-cheat-sheets-ml-dl-scraping-python-r-sql-maths-statistics-ef30b4d786eb
+2. Termos corporativos (Company slangs): https://www.linkedin.com/posts/carlos-quaresma-3385b629_245-termos-corporativos-ugcPost-6805174340355678208-BNiH
+3. 101 Data Science cheat sheets: https://medium.com/@anushka.datascoop/101-data-science-cheat-sheets-ml-dl-scraping-python-r-sql-maths-statistics-ef30b4d786eb
 
 # GAN to restore photos
 1. https://www.linkedin.com/posts/murilo-gustineli_computervision-deeplearning-artificialintelligence-activity-6874434789815009280-Xow8/
@@ -180,5 +188,8 @@
 6. Mais pipelines: https://www.linkedin.com/posts/igo-pereira-barros-developer_datascience-python-sklearn-activity-6794635489589673984-fKeC
 7. Deus e o Diabo a Pagarem na Selva de Pedra: Uma Etnografia Política de Ocupações Autogestionadas na Zona Leste de São Paulo: https://drive.google.com/drive/folders/1mEVFqjeblr23itQgZVVPRBB98osh7sdp (ver do cap9 ao cap12)
 8. https://igobarros.herokuapp.com/
-9. https://petroniocandido.github.io/
-10. Modeltime para prever series temporais: https://www.business-science.io/code-tools/2020/06/29/introducing-modeltime.html
+
+# Series Temporais
+1. PyFTS: https://petroniocandido.github.io/
+2. Modeltime: https://www.business-science.io/code-tools/2020/06/29/introducing-modeltime.html
+3. Principais padrões em series temporais: https://medium.com/@eraylson_/principais-padr%C3%B5es-em-s%C3%A9ries-temporais-eea59d8a870e
