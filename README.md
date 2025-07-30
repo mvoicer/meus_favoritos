@@ -31,7 +31,6 @@
 
 # Material de disciplinas
 1. USP: https://edisciplinas.usp.br/acessar/
-2. RecSys DCC UFMG: https://homepages.dcc.ufmg.br/~rodrygo/recsys-2018-1/
 3. Fundamentos Estatísticos para Ciência dos Dados DCC UFMG: https://homepages.dcc.ufmg.br/~assuncao/EstatCC/material.html
 4. Statistical Learning and Deep Learning (slides Adrianov DCC UFMG): https://homepages.dcc.ufmg.br/~adrianov/ml/pres.pdf
 5. NLP (slides Adrianov DCC UFMG): https://homepages.dcc.ufmg.br/~adrianov/nlp/deepnlp.pdf
@@ -60,8 +59,6 @@
 # Deploy ML
 1. https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/
 
-# RegEx Python
-1. https://medium.com/pyladiesbh/regex-b%C3%A1sico-em-python-31dcb7fac046
 
 # Best tutorials
 1. Gradient descent: https://towardsdatascience.com/complete-step-by-step-gradient-descent-algorithm-from-scratch-acba013e8420
@@ -80,9 +77,6 @@
 14. Maps 2: Cool maps with Geopy: https://towardsdatascience.com/making-simple-maps-with-folium-and-geopy-4b9e8ab98c00
 15. Maps 3: Lat and Long Geopy: https://towardsdatascience.com/things-to-do-with-latitude-longitude-data-using-geopy-python-1d356ed1ae30
 
-
-# Linear Algebra in 4 pages
-1. https://media.licdn.com/dms/document/media/D4D1FAQFp5VJ8xlAVkw/feedshare-document-pdf-analyzed/0/1681843895404?e=1687996800&v=beta&t=gt-WT2FwlAk6Bo-ibbf1dm3TBTLipAGGpUADXeMxQ6M
 
 # Cloud Certifications
 1. Azure data scientist: https://docs.microsoft.com/pt-br/learn/certifications/azure-data-scientist/
